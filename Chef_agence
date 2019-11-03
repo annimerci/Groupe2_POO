@@ -1,5 +1,5 @@
 class Chef_agence:
-     """classe représentant le Vhef d'agence d'une banque"""
+     """classe représentant le Chef d'agence d'une banque"""
      def__init__(self,Id_ChefA,Nom,Prenom,Age,Sexe):
         self.Id_ChefA=Identifiant
         self.Nom=Nom
