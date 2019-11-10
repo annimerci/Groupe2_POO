@@ -2,15 +2,18 @@
 
 #Importation des differentes classes
 
-from Compte import Compte 
-from Courant import Courant 
-from Epargne import Epargne
-from Chef_agenece import Chef_agence
-from Compte_gre_a_gre import Compt_gre_a_gre
-from Chef_Agence import Chef_Agence
-from Gestionnaire import Gestionnaire 
+from Compte import Compte
+from Client import Client
+from Courant import Courant
+from Personne import Personne
+from Compte_epargne import Compte_epargne
+from Compte_gre_a_gre import Compte_gre_a_gre
+from Controleur import controleur
+from Chef_agence import Chef_agence
 from Guichetier import Guichetier
-from Controleur import Controleur
+from Gestionnaire import Gestionnaire
+
+
 
 """Définition de la classe Banque"""
 class Banque : 
