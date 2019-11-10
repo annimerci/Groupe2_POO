@@ -1,3 +1,5 @@
+#HAMADOU OUSMANOU 18A040FS
+
 class Guichetier(Compte): #Sous-Classe Guichetier ayant comme classe mere Personne
      montantv = input("Saisir le Montant de versement\n")
     # Notre méthode constructeur
