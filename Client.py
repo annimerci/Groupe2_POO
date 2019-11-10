@@ -22,5 +22,4 @@ class Client(Personne):
         return self.Emprunt
         
    
-
-
+#lien vidéo youtube: https://youtu.be/KxirmLDuujU
