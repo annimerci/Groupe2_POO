@@ -12,7 +12,7 @@ from Gestionnaire import Gestionnaire
 from Guichetier import Guichetier
 from Controleur import Controleur
 
-
+"""Définition de la classe Banque"""
 class Banque : 
     
     def __init__(self):
@@ -21,7 +21,7 @@ class Banque :
         self.controleur = Controleur();
         self.gestionnaire = Gestionnaire();
         self.guichetier = Guichetier();
-        self.caisse = 10000000; # Montant présent dans la caisse de la banque
+        self.caisse = 10000000; # Montant de la caisse de la banque
         self.nbrCompte = 0; # Nombre de compte bancaire créé
         self.capital = 10000000000; # Capital de la banque
         
