@@ -10,3 +10,9 @@
       def _set_virement (auto,somme)
           print ("votre solde restant est de {0} \ n".format (self._somme))
           moi=property
+
+        
+        
+        
+        
+ #lien vidéo youtube: https://youtu.be/ZXi57Ux8no8    
