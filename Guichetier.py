@@ -22,3 +22,6 @@ class Guichetier(Compte): #Sous-Classe Guichetier ayant comme classe mere Person
         # Si "OUI" ... un retrait de 7000 par exemple est effectuer
         print("montant débité de {0} FCFA: Protected".format(soldeDispo))
         self.affSolde()
+          
+          
+          # lien video youtube https://youtu.be/0uDGzEvi620
