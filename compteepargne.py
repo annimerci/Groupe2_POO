@@ -7,6 +7,6 @@
       def _get_virement(auto,somme)
           print ("votre solde restant est de {0} \ n".format (self._somme))
           
-      def _set_vire ment (auto,somme)
-          print ("votre solde restant est de {0} \ n".format (self._somme)
+      def _set_virement (auto,somme)
+          print ("votre solde restant est de {0} \ n".format (self._somme))
           moi=property
